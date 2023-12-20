@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YouTube on My New Hugo Site</title>
+    <link>http://example.org/tags/youtube/</link>
+    <description>Recent content in YouTube on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jul 2023 14:10:11 +0700</lastBuildDate><atom:link href="http://example.org/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YouTube</title>
+      <link>http://example.org/youtube/</link>
+      <pubDate>Sun, 23 Jul 2023 14:10:11 +0700</pubDate>
+      
+      <guid>http://example.org/youtube/</guid>
+      <description>My channel, Anawin Animation!!! 🔬 [more in About] This channel is experimenting 🛠️, its may not stable of my style but And I’ll gonna change to new channel later (soon)
+(Expect that video is too much comments, you can move a new one) And sorry about I can’t reply against to your reply to me in your comment
+HI!!! Welcome to my channel
+like subscibe &amp;amp; comment to be to make me motivated 🏃🏼🎥📋✏️ Chat or social to contact me are present in almost every description[in “others”)</description>
+    </item>
+    
+  </channel>
+</rss>
